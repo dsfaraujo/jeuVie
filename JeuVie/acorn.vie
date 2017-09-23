@@ -1,0 +1,32 @@
+# Acorn
+# C'est le patron croissant a 7 cellules de depart le plus
+# productif. C'est un patron Mathusalem.
+50,50
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+......*
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+........................*
+..........................*
+.......................**..***
+# Fin
